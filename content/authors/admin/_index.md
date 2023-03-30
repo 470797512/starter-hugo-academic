@@ -33,7 +33,7 @@ education:
       year: 2008
 superuser: true
 status:
-  icon: ☕
+  icon: 
 last_name: Wu
 highlight_name: true
 first_name: Alice
