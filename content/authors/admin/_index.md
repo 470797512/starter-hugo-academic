@@ -1,8 +1,7 @@
 ---
 title: Abeer Al-Sadoon
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Adjunct Associate professor
+bio: My research interests include XXX XXX XXX XXX.
 interests: []
 social:
   - icon: envelope
@@ -34,7 +33,7 @@ education:
       year: 2008
 superuser: true
 status:
-  icon: ☕️
+  icon: ☕
 last_name: Wu
 highlight_name: true
 first_name: Alice
